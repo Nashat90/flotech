@@ -12,7 +12,12 @@ A Python library implementing various multiphase flow correlations for oil and g
   - Mukherjee and Brill (1985)
   - Ansari et al. (1994)
   - Aziz and Govier (1972)
+  - Hydro Model
+  - Gray
+  - Fancher and Brown
+  - Duns and Ross
   - Stanford Correlation
+  - Plus Some more
 - **Fluid Property Calculations**:
   - Oil, water, and gas properties
   - PVT (Pressure-Volume-Temperature) relationships
