@@ -139,3 +139,8 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
+```
+
+
+![Well Diagram](images/Full_System.png)
+
