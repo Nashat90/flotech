@@ -21,20 +21,16 @@ A Python library implementing various multiphase flow correlations for oil and g
 
 ## Installation
 
-```bash
-pip install flotech
-
----
-
-## 🚀 Installation
 
 You can install `flotech` via pip:
 
 ```bash
 pip install flotech
 
-
+_______
 ## Usage
+
+
 ```python
 import numpy as np
 import pandas as pd
