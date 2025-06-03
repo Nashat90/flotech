@@ -20,16 +20,14 @@ A Python library implementing various multiphase flow correlations for oil and g
   - Darcy's equation
 
 ## Installation
-
-
 You can install `flotech` via pip:
 
+## Installation 
 ```bash
 pip install flotech
+```
 
-_______
-## Usage
-
+## Python Usage Example
 
 ```python
 import numpy as np
