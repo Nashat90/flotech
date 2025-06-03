@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: flotech
+Version: 0.1.0.1
+Summary: A small example package
+Home-page: https://github.com/nashat90
+Author: Nashat Jumaah Omar
+Author-email: nashattt90@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# flotech
+
+`flotech` is a Python package designed for analyzing and modeling well performance in oil and gas operations. It helps engineers automate performance calculations, visualize production trends, and make informed decisions.
+
+---
+
+## ðŸš€ Installation
+
+You can install `flotech` via pip:
+
+```bash
+pip install flotech
