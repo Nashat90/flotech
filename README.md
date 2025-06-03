@@ -251,5 +251,6 @@ plt.legend()
 plt.show()
 plt.savefig(r"images\well_pressures.png")
 ```
-
+---
+# Wellbore Plot
 ![Well Diagram](images/well_pressures.png)
